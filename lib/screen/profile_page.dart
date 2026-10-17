@@ -16,7 +16,7 @@ class profile_page extends StatelessWidget {
         elevation: 0,
         leading: const Icon(Icons.arrow_back_ios, color: Colors.black),
         title: const Text(
-          'housemateloverclub',
+          'cortis',
           style: TextStyle(color: Colors.black, fontWeight: FontWeight.bold),
         ),
         actions: const [
@@ -44,11 +44,11 @@ class profile_page extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: const [
                   Text(
-                    'MINGYU & WONWOO',
+                    'CORTIS',
                     style: TextStyle(fontWeight: FontWeight.bold),
                   ),
                   SizedBox(height: 2),
-                  Text('SEVENTEEN 💎'),
+                  Text('CORTIS 코르티스 Official Instagram\n‘GREENGREEN_playextended’ out now!'),
                 ],
               ),
             ),
